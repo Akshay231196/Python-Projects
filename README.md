@@ -16,6 +16,7 @@ Uses HR data to build a classification model predicting employee job change beha
 **Skills:** Classification, HR Analytics, Feature Engineering  
 **Tools:** Python, Pandas, Scikit-learn, Jupyter Notebook
 
+
 ### 3. Customer Segmentation and Behavioral Clustering
 Applies K-Means clustering to segment mall customers based on income and spending habits. Visualizations help reveal patterns for targeted marketing.
 
