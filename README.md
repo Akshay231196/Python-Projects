@@ -46,7 +46,7 @@ Explores various vectorization techniques including CountVectorizer, TF-IDF, ste
 
 ---
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python (Pandas, NumPy, Scikit-learn, NLTK)
 - Jupyter Notebook
