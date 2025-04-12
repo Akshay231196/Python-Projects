@@ -53,8 +53,6 @@ Explores various vectorization techniques including CountVectorizer, TF-IDF, ste
 - Matplotlib, Seaborn
 - TF-IDF, CountVectorizer, Naive Bayes, K-Means, PCA
 
----
-
 ## Connect with Me
 
 **Akshay Prajapati**  
