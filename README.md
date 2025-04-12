@@ -1,12 +1,12 @@
-# 🧠 Python Projects for Data & Business Analytics
+# Python Projects for Data & Business Analytics
 
 This repository showcases a collection of Python-based projects focused on real-world data analysis, business intelligence, and machine learning applications. These projects demonstrate practical skills in data preprocessing, visualization, clustering, modeling, and natural language processing.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 1. 💬 Customer Sentiment Analysis Using NLP Techniques
+### 1. Customer Sentiment Analysis Using NLP Techniques
 A beginner-friendly NLP project analyzing restaurant reviews. Includes text preprocessing, TF-IDF and CountVectorizer feature extraction, WordCloud visualizations, and sentiment classification using Naive Bayes.
 
 **Skills:** NLP, Text Classification, Data Visualization  
@@ -14,7 +14,7 @@ A beginner-friendly NLP project analyzing restaurant reviews. Includes text prep
 
 ---
 
-### 2. 👥 Employee Attrition Prediction with HR Analytics
+### 2. Employee Attrition Prediction with HR Analytics
 Uses HR data to build a classification model predicting employee job change behavior. Includes data cleaning, encoding, feature engineering, and model building.
 
 **Skills:** Classification, HR Analytics, Feature Engineering  
@@ -22,7 +22,7 @@ Uses HR data to build a classification model predicting employee job change beha
 
 ---
 
-### 3. 📊 Customer Segmentation and Behavioral Clustering
+### 3. Customer Segmentation and Behavioral Clustering
 Applies K-Means clustering to segment mall customers based on income and spending habits. Visualizations help reveal patterns for targeted marketing.
 
 **Skills:** Unsupervised Learning, Clustering, EDA  
@@ -30,7 +30,7 @@ Applies K-Means clustering to segment mall customers based on income and spendin
 
 ---
 
-### 4. 🌍 Country-Level Insights Using Dimensionality Reduction
+### 4. Country-Level Insights Using Dimensionality Reduction
 Analyzes country-level socioeconomic indicators using Principal Component Analysis (PCA). Identifies economic and health prosperity patterns across countries.
 
 **Skills:** PCA, Dimensionality Reduction, Global Analytics  
@@ -38,7 +38,7 @@ Analyzes country-level socioeconomic indicators using Principal Component Analys
 
 ---
 
-### 5. 📄 Text Data Preparation for Analytical Modeling
+### 5. Text Data Preparation for Analytical Modeling
 Explores various vectorization techniques including CountVectorizer, TF-IDF, stemming, lemmatization, and n-gram generation to prepare text data for machine learning.
 
 **Skills:** NLP Preprocessing, Text Vectorization  
@@ -55,7 +55,7 @@ Explores various vectorization techniques including CountVectorizer, TF-IDF, ste
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 **Akshay Prajapati**  
 [LinkedIn](https://www.linkedin.com/in/akshay-prajapati-888668122/)  
